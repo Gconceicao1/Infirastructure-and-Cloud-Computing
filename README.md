@@ -1,6 +1,9 @@
 # Infrastructure and Cloud Computing (MBA Impacta)
 Repositório para as entregas de atividades de Infrastructure and Cloud Computing (MBA Impacta)
 
+Gabriel de Moraes Domingues Conceição
+RA:2200757
+
 ## atividade 01
 criando ambiente com terraform e instalação dinâmica do apache2
 
